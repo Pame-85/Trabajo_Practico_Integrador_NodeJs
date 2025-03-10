@@ -22,7 +22,7 @@ Este proyecto implementa una API TCP para la gestión de libros, autores y edito
 
 1. Clonar el repositorio:
 ```bash
-git clone <https://github.com/Pame-85/Trabajo_Practico_Integrador_Nodejs>
+git clone https://github.com/Pame-85/Trabajo_Practico_Integrador_Nodejs
 cd book-api
 ```
 
@@ -196,11 +196,11 @@ node client.js
 ```
 
 3. El cliente proporciona una interfaz interactiva con las siguientes opciones:
-   - Gestión de Libros
-   - Gestión de Autores
-   - Gestión de Editoriales
-   - Ver ejemplos de comandos
-   - Modo comando directo
+- Gestión de Libros
+- Gestión de Autores
+- Gestión de Editoriales
+- Ver ejemplos de comandos
+- Modo comando directo
 
 4. Puedes usar el modo comando directo para probar comandos específicos o usar los menús interactivos para una experiencia más guiada.
 
