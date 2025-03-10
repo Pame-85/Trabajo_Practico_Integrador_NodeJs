@@ -22,7 +22,7 @@ Este proyecto implementa una API TCP para la gestión de libros, autores y edito
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone <https://github.com/Pame-85/Trabajo_Practico_Integrador_Nodejs>
 cd book-api
 ```
 
