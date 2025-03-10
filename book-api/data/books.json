@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "El Señor de los Anillos",
+    "authorId": 1,
+    "publisherId": 1,
+    "year": 1954,
+    "isbn": "978-0544003415"
+  },
+  {
+    "id": 2,
+    "title": "Cien años de soledad",
+    "authorId": 2,
+    "publisherId": 2,
+    "year": 1967,
+    "isbn": "978-0307474728"
+  }
+]

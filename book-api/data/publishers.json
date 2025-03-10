@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Houghton Mifflin",
+    "country": "United States",
+    "founded": 1880
+  },
+  {
+    "id": 2,
+    "name": "Editorial Sudamericana",
+    "country": "Argentina",
+    "founded": 1939
+  }
+] 
